@@ -1,1 +1,3 @@
-<?php system('hostname'); ?>
+<PHP
+  echo "RFI";
+?>
