@@ -1,1 +1,1 @@
-<?php system('hostname'); ?>
+echo '<?php system('hostname'); ?>'
